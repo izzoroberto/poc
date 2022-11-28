@@ -1,0 +1,2 @@
+﻿module myclass2
+

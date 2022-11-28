@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <None Include="Myclass.cs" />
+    <None Include="myclass2.cs" />
   </ItemGroup>
 
 </Project>
